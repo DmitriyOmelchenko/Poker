@@ -1,4 +1,6 @@
-﻿namespace Poker.Model.Interfaces
+﻿using PokerClasesesLibrary.Enums;
+
+namespace PokerClasesesLibrary.Interfaces
 {
     public interface IRound
     {

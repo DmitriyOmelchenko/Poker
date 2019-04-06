@@ -10,7 +10,7 @@ namespace Poker.Model
     public enum RoundKind
     {
         Simple,
-        Nontrump,
+        NonTrump,
         Shadow,
         Misery,
         Gold

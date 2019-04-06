@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Poker.Model.Interfaces;
+﻿using PokerClasesesLibrary.Interfaces;
 
-namespace Poker.Model.Classes
+namespace PokerClasesesLibrary.Classes
 {
     public class PlayerBet: IPlayerBet
     {

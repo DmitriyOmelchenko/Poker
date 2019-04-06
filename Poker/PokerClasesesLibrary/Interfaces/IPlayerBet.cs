@@ -1,4 +1,4 @@
-﻿namespace Poker.Model.Interfaces
+﻿namespace PokerClasesesLibrary.Interfaces
 {
     public interface IPlayerBet
     {
